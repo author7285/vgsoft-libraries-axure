@@ -1,1 +1,1 @@
-# vgsoft-libs-axure
+# vgsoft-libraries-axure
